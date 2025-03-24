@@ -1,18 +1,10 @@
-# Culinary Compass
+# test_app
 
-A group Flutter project for meal planning, favorites, and grocery list management.
-
-## Features
-
-- Browse recipes
-- Save favorites
-- Plan meals with a calendar
-- Create and manage grocery lists
-- Filter by dietary preferences
+A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a full-featured Flutter application.
+This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
