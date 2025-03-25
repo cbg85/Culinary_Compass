@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Pasta Primavera",
+    "imagePath": "assets/images/pasta.jpg",
+    "ingredients": ["Pasta", "Tomatoes", "Garlic", "Olive Oil", "Basil"],
+    "instructions": [
+      "Boil the pasta.",
+      "Sauté the vegetables.",
+      "Mix everything together.",
+      "Serve hot with grated cheese."
+    ]
+  },
+  {
+    "title": "Avocado Toast",
+    "imagePath": "assets/images/avocado_toast.jpg",
+    "ingredients": ["Bread", "Avocado", "Salt", "Pepper", "Lemon Juice"],
+    "instructions": [
+      "Toast the bread.",
+      "Mash the avocado with lemon juice, salt, and pepper.",
+      "Spread the avocado on toast.",
+      "Serve immediately."
+    ]
+  }
+]
