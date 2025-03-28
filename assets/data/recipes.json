@@ -20,5 +20,33 @@
       "Spread the avocado on toast.",
       "Serve immediately."
     ]
+  },
+  {
+    "title": "Shrimp and Grits",
+    "imagePath": "assets/images/ShrimpnGrits.jpg",
+    "ingredients": [
+      "Shrimp", "Grits", "Butter", "Garlic", "Cheese", "Chicken Broth", "Bacon", "Green Onions"
+    ],
+    "instructions": [
+      "Cook the grits in chicken broth until creamy.",
+      "Sauté the shrimp with butter and garlic.",
+      "Cook the bacon until crispy and chop it.",
+      "Mix cheese into the grits and top with shrimp, bacon, and green onions."
+    ]
+  },
+  {
+    "title": "Pound Cake",
+    "imagePath": "assets/images/pound_cake.jpg",
+    "ingredients": [
+      "Flour", "Butter", "Sugar", "Eggs", "Vanilla Extract", "Baking Powder", "Milk"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C).",
+      "Cream butter and sugar together until light and fluffy.",
+      "Add eggs one at a time, mixing well.",
+      "Mix in vanilla extract, then alternately add flour and milk.",
+      "Pour batter into a greased pan and bake for 60-70 minutes.",
+      "Let cool before serving."
+    ]
   }
 ]
